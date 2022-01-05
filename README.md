@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilippDuck
-- 👀 I’m interested in Programming, 3D Printing and Making Stuff.
-- 🌱 I’m currently study Business informatics at the IU in Germany
+- 👀 I’m interested in Programming, 3D Printing and making stuff.
+- 🌱 I’m currently study business informatics at the IU in Germany
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
